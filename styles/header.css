@@ -1,0 +1,21 @@
+.app-header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px;
+    align-items: center;
+    font-size: 12px;
+  }
+  
+  .app-header-menu {
+    display: flex;
+    gap: 20px;
+  }
+  
+.images{
+    height:20px;
+}
+
+.avatar{
+    width:30px;
+    border-radius: 24px;
+}

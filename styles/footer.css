@@ -1,0 +1,28 @@
+.footer {
+    height: 40px;
+    background-color: #f1f4fa;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid silver;
+    padding: 0 30px;
+    justify-content: space-between;
+    color: #70757A;
+    font-size: 12px;
+   
+  }
+
+  .down-footer {
+    display: flex;
+    gap: 20px;
+  }
+
+  .footer a{
+    color: #70757A;
+  text-decoration: none;
+}
+
+.all-footer{
+    margin-top: 150px;
+}
+  
+  

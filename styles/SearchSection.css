@@ -1,0 +1,11 @@
+.search{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 12px;
+
+}
+
+.google{
+    width:300px;
+}
